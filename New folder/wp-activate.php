@@ -1,4 +1,4 @@
-<?php
+<!-- <?php
 /**
  * Confirms that the activation key that is sent in an email after a user signs
  * up for a new site matches the key for that user and then displays confirmation.
@@ -161,3 +161,4 @@ get_header( 'wp-activate' );
 	key_input && key_input.focus();
 </script>
 <?php get_footer( 'wp-activate' );
+ -->
